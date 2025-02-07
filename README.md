@@ -1,0 +1,1 @@
+This repository contains an example of an array index out of bounds error in assembly code and its solution. The bug is caused by using an incorrect index value when accessing an array element. This can lead to segmentation faults or other unpredictable behavior. The solution demonstrates how to add bounds checking to prevent this error.
